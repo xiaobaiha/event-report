@@ -42,4 +42,4 @@ EventSDK.sendEvent("custom_event", { name: "Jack", age: 10 });
 点击：事件委托
 展现：IntersectionObserver
 
-TODO：Beacon/Request HEADERS 信息收集
+TODO：Beacon / Request HEADERS 信息收集 / 性能数据收集
